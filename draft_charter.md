@@ -54,8 +54,7 @@ There are some examples of API models such as OFX, but it uses SOAP/XML model. H
 
 This working group aims to rectify the situation by developing a REST/JSON model protected by OAuth.
 
-2. Privacy and traceability issues for fully decentralized permissionless financial system (DeFi)
-Fully decentralized permissionless financial system is still just an imaginary creature at this moment. However, no one can predict what will happen in mid-to-long term especially because of the rapid development of relevant technologies and enthuasism in blockchain community.
+2. Privacy and traceability issues for fully decentralized permissionless financial system (DeFi) is still just an imaginary creature at this moment. However, no one can predict what will happen in mid-to-long term especially because of the rapid development of relevant technologies and enthuasism in blockchain community.
 
 In recent years, many privacy enhancing technologies for DeFi have been developed within the tech community with several aims including preserving user privacy and enhancing fungibility. Needless to say, privacy is important for users of financial services; however, at the same time, privacy could make it harder for enforcement authorities to find out and catch financial criminals. In recent yeasr, in particular after the publication of Libra proposal with the plan for transition to permmissionless system, regulatory authorities and AML/CFT authorities have more and more become keen on the implecation of decentralized permissionless system for financial regulations.
 
